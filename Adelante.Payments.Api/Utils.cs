@@ -22,7 +22,7 @@ namespace Adelante.Payments.Api
                 new Tuple<string, string>("CHQ", "CHEQ"),
                 new Tuple<string, string>("CHEQUE", "CHEQ"),
                 new Tuple<string, string>("CHQPOST", "CHEQ"),
-                new Tuple<string, string>("DD", "DD"),
+                new Tuple<string, string>("DDBT", "DDBT"),
                 new Tuple<string, string>("GIRO", "GIRO"),
                 new Tuple<string, string>("GIROIMP", "GIRO"),
                 new Tuple<string, string>("INDEMNITY", "INDM"),
